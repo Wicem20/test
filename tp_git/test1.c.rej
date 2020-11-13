@@ -1,0 +1,12 @@
+--- test1.c	2020-11-13 00:10:14.000000000 +0100
++++ test2.c	2020-11-13 00:12:00.000000000 +0100
+@@ -2,6 +2,8 @@
+ 
+ int main(int argc, char const *argv[])
+ {
+-    /* code */
++    printf("hello world \n");
++
++    printf("ceci est un exemple pour le tp git \n" );
+     return 0;
+ }
